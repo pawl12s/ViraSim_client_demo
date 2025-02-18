@@ -8,9 +8,9 @@ O **ViraSim Client** é um projeto experimental voltado a um cheat para o jogo *
 
 O **ViraSim Client** funciona como um cliente "vazio", onde o objetivo é manipular a forma como as informações do jogo são processadas e apresentadas ao usuário, sem interferir diretamente nas ações de jogo. Ele pode envolver a ocultação de dados como:
 
-- **ESP**
-- **AimBot**
-- **Trigger**
+- **ESP**: é um tipo de hacks que exibem informações do jogador.
+- **AimBot**: um tipo de robô usado em jogos do gênero tiro em primeira pessoa que proporciona diferentes níveis de precisão ao jogador.
+- **Trigger**: é uma ferramenta que dispara automaticamente um tiro quando a mira está apontada para o inimigo
 - **Antidetectores**: Técnicas para evitar a detecção pelo sistema anti-cheat da Riot Games, como **bypasses** e outras formas de ofuscação.
 - **Modificações no cliente**: Mudanças no comportamento do cliente do jogo para proporcionar vantagens ou ocultar ações que seriam normalmente detectadas.
 
