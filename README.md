@@ -1,6 +1,6 @@
 <img src="imgs/virasim.png" alt="virasim">
 
-# ViraSim Client - Cheat para Valorant
+# ViraSim Client
 
 O **ViraSim Client** é um projeto experimental voltado a um cheat para o jogo **Valorant**, um jogo competitivo de tiro desenvolvido pela Riot Games. O objetivo deste projeto é desenvolver um cliente modificado que visa **ofuscar as informações do jogo** para dificultar a detecção de cheaters e manipular o funcionamento do jogo de forma a criar uma experiência única para o usuário.
 
