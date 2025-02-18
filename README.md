@@ -20,7 +20,7 @@ O **ViraSim Client** o objetivo é manipular a forma como as informações do jo
 - **Antidetectores**: Técnicas para evitar a detecção pelo sistema anti-cheat da Riot Games, como **bypasses** e outras formas de ofuscação.
 - **Modificações no cliente**: Mudanças no comportamento do cliente do jogo para proporcionar vantagens ou ocultar ações que seriam normalmente detectadas.
 
-Não a necessidade de peça externa roda em qualquer PC.
+⚠️ **Não a necessidade de peça externa roda em qualquer PC.** ⚠️
 
 ### Requisitos
 
