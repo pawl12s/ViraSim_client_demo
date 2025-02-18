@@ -1,4 +1,4 @@
-<img src="imgs/Sem Título-1.png" alt="virasim">
+<img src="imgs/virasim.png" alt="virasim">
 
 # ViraSim Client - Cheat para Valorant
 
