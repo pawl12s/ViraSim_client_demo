@@ -6,7 +6,7 @@ O **ViraSim Client** é um projeto experimental voltado a um cheat para o jogo *
 
 ## Como Funciona?
 
-O **ViraSim Client** funciona como um cliente "vazio", onde o objetivo é manipular a forma como as informações do jogo são processadas e apresentadas ao usuário, sem interferir diretamente nas ações de jogo. Ele pode envolver a ocultação de dados como:
+O **ViraSim Client** o objetivo é manipular a forma como as informações do jogo são processadas e apresentadas ao usuário, sem interferir diretamente nas ações de jogo. Ele pode envolver a ocultação de dados como:
 
 - **ESP**: é um tipo de hacks que exibem informações do jogador.
 <img src="imgs/Tela 3.png" alt="tela3">
