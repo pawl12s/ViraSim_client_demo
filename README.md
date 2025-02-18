@@ -9,6 +9,8 @@ O **ViraSim Client** é um projeto experimental voltado a um cheat para o jogo *
 O **ViraSim Client** funciona como um cliente "vazio", onde o objetivo é manipular a forma como as informações do jogo são processadas e apresentadas ao usuário, sem interferir diretamente nas ações de jogo. Ele pode envolver a ocultação de dados como:
 
 - **ESP**: é um tipo de hacks que exibem informações do jogador.
+<img src="imgs/Tela 3.png" alt="tela3">
+
 - **AimBot**: um tipo de robô usado em jogos do gênero tiro em primeira pessoa que proporciona diferentes níveis de precisão ao jogador.
 <img src="imgs/Tela 1.png" alt="tela1">
 
