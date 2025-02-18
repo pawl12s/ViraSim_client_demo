@@ -19,6 +19,7 @@ Não a necessidade de peça externa roda em qualquer PC.
 ### Requisitos
 
 - **Sistema Operacional**: Windows
+- **Game**: Valorant 
 
 ## Aviso Legal
 
